@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farjey57
 - 👀 I’m interested in web development, back-end, data science and machine learning
-- 🌱 I’m currently learning Linux and math on python
+- 🌱 I’m currently learning web development with Yandex.practicum
 - 📫 How to reach me telegram: @Farjey
 
 <!---
